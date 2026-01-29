@@ -17,8 +17,9 @@ Gambo is a discord bot created in `Python` and is designed to bring the casino g
 
 ### 💰 Economy & Competition
 * **`/balance`** – Check how many virtual credits you currently have 💵.
-* **`/leaderboard`** – See who the top high-rollers are on the server 🏆.
 * **`/daily`** – Claim your daily virtual credit bonus to stay in the game 📅.
+* **`/leaderboard`** – See the top high-rollers. **Admins:** Use `/leaderboard [channel]` for a live, self-updating board 🏆.
+* **`/prediction`** – Admins can create custom betting pools for community events 📈.
 
 ## 🔗 Get Started
 * Invite Gambo to your server - https://top.gg/bot/1340592747681419335
