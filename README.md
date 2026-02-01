@@ -6,6 +6,10 @@ Gambo is a discord bot created in `Python` and is designed to bring the casino g
 * **Virtual Only** – Gambo uses 100% virtual currency. No real money is ever involved.
 * **The Safe Choice** – Real-life gambling is dangerous and can ruin lives. Gambo is built to give you the thrill and fun without any of the real-world risks or losses. It's the best way to enjoy "gambling" responsibly.
 
+## ⚙️ Permissions & Setup
+For the best experience, Gambo works best with the Administrator permission.
+> **WHY?** This allows the bot to post `/prediction` events and automated leaderboards in locked "Read-Only" channels (like #announcements or #bets) without you having to manually adjust channel permissions.
+
 ## 🚀 Main Features
 
 ### 🎮 Games
@@ -19,6 +23,7 @@ Gambo is a discord bot created in `Python` and is designed to bring the casino g
 * **`/balance`** – Check how many virtual credits you currently have 💵.
 * **`/daily`** – Claim your daily virtual credit bonus to stay in the game 📅.
 * **`/leaderboard`** – See the top high-rollers. **Admins:** Use `/leaderboard [channel]` for a live, self-updating board 🏆.
+* **`/global_leaderboard`** – See the top 5 Gambo's richest players in the world.
 * **`/prediction`** – Admins can create custom betting pools for community events 📈.
 
 ## 🔗 Get Started
