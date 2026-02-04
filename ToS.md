@@ -26,6 +26,7 @@
 * **Technical Issues:** Gambo and its developers are **not responsible** for any lost virtual credits due to technical malfunctions, database errors, connectivity issues, or Discord outages.
 * **User Error:** We are not responsible for credits lost due to user error (e.g., accidental bets, misclicks).
 * **Economy Resets:** We reserve the right to reset or wipe the economy database at any time for maintenance, balance updates, or technical reasons.
+* **Service Termination:** We reserve the right to shut down, terminate, or remove the bot from any or all servers at any time, without prior notice and for any reason. In such cases, all virtual data and currency will be permanently lost.
 
 ### 6. Age Requirement 🔞
 * By using Gambo, you confirm that you meet the minimum age requirement for Discord (13+) and comply with any local regulations regarding simulated gambling in your jurisdiction.
