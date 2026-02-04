@@ -19,12 +19,18 @@ For the best experience, Gambo works best with the Administrator permission.
 * **`/slots`** – Try your luck on the virtual slot machines 🎰.
 * **`/coinflip`** – Double or nothing! Pick heads or tails and flip the coin 🪙.
 
+### *Admin Only:*
+* **`/prediction`** – Admins can create custom betting pools for community events 📈.
+* **`/lock [prediction]`** – Stop betting for a prediction 🔒.
+* **`/unlock [prediction]`** – Re-open betting for a prediction 🔓.
+* **`/resolve [prediction]`** – Select the winner and distribute the pot 🏁.
+
 ### 💰 Economy & Competition
 * **`/balance`** – Check how many virtual credits you currently have 💵.
 * **`/daily`** – Claim your daily virtual credit bonus to stay in the game 📅.
 * **`/leaderboard`** – See the top high-rollers. **Admins:** Use `/leaderboard [channel]` for a live, self-updating board 🏆.
 * **`/global_leaderboard`** – See the top 5 Gambo's richest players in the world.
-* **`/prediction`** – Admins can create custom betting pools for community events 📈.
-
+ 
 ## 🔗 Get Started
 * Invite Gambo to your server - https://top.gg/bot/1340592747681419335
+* Support Server - [discord.gg/ADrkcEfMWA](https://discord.com/invite/ADrkcEfMWA)
