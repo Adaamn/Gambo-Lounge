@@ -13,11 +13,14 @@ For the best experience, Gambo works best with the Administrator permission.
 ## 🚀 Main Features
 
 ### 🎮 Games
+* **`/football`** – Play football match — choose team, set bet, kickoff and win 2x ⚽️.
 * **`/blackjack`** – Play the classic card game against the dealer 🃏.
 * **`/crash`** – Test your nerves! Watch the multiplier grow and cash out before the rocket explodes 🚀.
 * **`/roulette`** – Bet on your favorite numbers or colors and spin the wheel 🎡.
 * **`/slots`** – Try your luck on the virtual slot machines 🎰.
 * **`/coinflip`** – Double or nothing! Pick heads or tails and flip the coin 🪙.
+* **`/tower`** – Climb the tower — pick safe tiles and cash out before hitting a bomb!
+* **`/dice`** – Roll two dice and bet on the outcome.
 
 ### *Admin Only:*
 * **`/prediction`** – Admins can create custom betting pools for community events 📈.
@@ -28,6 +31,8 @@ For the best experience, Gambo works best with the Administrator permission.
 ### 💰 Economy & Competition
 * **`/balance`** – Check how many virtual credits you currently have 💵.
 * **`/daily`** – Claim your daily virtual credit bonus to stay in the game 📅.
+* **`/premium`** – Get +20% bonus on every win & 2,000,000 $ weekly bonus.
+* **`/beg`** – Beg for cash every 6 hours (random 5,000–10,000 $, not guaranteed).
 * **`/leaderboard`** – See the top high-rollers. **Admins:** Use `/leaderboard [channel]` for a live, self-updating board 🏆.
 * **`/global_leaderboard`** – See the top 5 Gambo's richest players in the world.
  
