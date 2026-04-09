@@ -1,6 +1,6 @@
 # ⚖️ Gambo – Terms of Service (TOS)
 
-> **Last Updated:** April 8, 2026
+> **Last Updated:** April 9, 2026  
 > By using the **Gambo** Discord bot, you agree to the following terms. If you do not agree, please stop using the bot and its features immediately.
 
 ---
@@ -43,7 +43,14 @@
 * **Well-being:** If you feel that simulated gambling is affecting your mental health, please stop using the bot immediately. 
 * **Resources:** You can find help at [BeGambleAware.org](https://www.begambleaware.org/).
 
-### 9. Changes to Terms 🔄
+### 9. Virtual Stock Market (“Gambo Stocks”) 📈
+* **Fiction only:** Any in-bot stock tickers, company names, prices, “shares,” and portfolio values (including **GMB**, **NVA**, **LCC**, or future tickers) are **purely fictional “Gambo stocks.”** They are **not** real companies, **not** listed on any real exchange, and **not** real securities, derivatives, or investment products.
+* **No real markets:** Simulated prices and updates are **for entertainment** inside Discord only. They do **not** track, mirror, or predict real-world markets, assets, or companies.
+* **Not financial advice:** Nothing in Gambo (commands, embeds, messages, or community chat about the bot) is **investment, legal, or financial advice**. Do not treat virtual “stocks” as a reason to buy or sell anything in the real world.
+* **Virtual credits only:** Buying or selling “shares” spends or earns **virtual credits** on a per-server economy only. You **cannot** withdraw proceeds, convert them to cash or crypto, or transfer them outside the bot’s intended systems.
+* **Same liability as economy:** Virtual losses or gains from Gambo stocks are subject to the same limitations as the rest of the virtual economy (including possible resets, bugs, or balance changes as described elsewhere in these terms).
+
+### 10. Changes to Terms 🔄
 * We reserve the right to modify these terms at any time. Your continued use of the bot after any changes constitutes your acceptance of the updated Terms of Service.
 
 ---
